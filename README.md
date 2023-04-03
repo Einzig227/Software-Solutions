@@ -1,6 +1,6 @@
 # Software Solutions
 
-Software Solutions is a software development business that offers various services and products including android development, web development, database management, business analytics, and digital marketing.
+Software Solutions is a website of a software development business that offers various services and products including android development, web development, database management, business analytics, and digital marketing.
 
 ## Technologies 
 
